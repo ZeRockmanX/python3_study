@@ -1,2 +1,1 @@
-# python3_study
-Python3 Study
+# Python3 Study
